@@ -4,7 +4,7 @@
     <div class="h-16 flex items-center justify-center border-b border-green-100 dark:border-gray-700 shrink-0 bg-white dark:bg-gray-800">
         <a href="{{ route('dashboard') }}" class="flex items-center gap-2 font-bold text-xl text-green-700 dark:text-green-400">
             <span class="text-3xl">🌱</span>
-            <span class="tracking-tight">PestDetection</span>
+            <span class="tracking-tight">PestSystem</span>
         </a>
     </div>
 

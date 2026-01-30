@@ -30,7 +30,7 @@
                     🌱
                 </div>
                 <h1 class="mt-4 text-2xl font-bold text-gray-800 dark:text-green-50 tracking-tight">
-                    AgriPest Control
+                    PestSystem Control
                 </h1>
                 <p class="text-sm text-green-700 dark:text-green-400 font-medium">Smart Farming System</p>
             </a>
